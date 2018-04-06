@@ -4,17 +4,17 @@ last source code modified by yongrui
 
 
 <p align="center">
-  <img width="640" src="screenshots/Screen1.jpg"/>
+  <img width="640" src="screenshots/screen1.jpg"/>
 </p>
 
 <p align="center">
-  <img width="640" src="screenshots/Screen2.png"/>
+  <img width="640" src="screenshots/screen2.png"/>
 </p>
 
 <p align="center">
-  <img width="640" src="screenshots/Screen3.png"/>
+  <img width="640" src="screenshots/screen3.png"/>
 </p>
 
 <p align="center">
-  <img width="640" src="screenshots/Screen4.png"/>
+  <img width="640" src="screenshots/screen4.png"/>
 </p>
