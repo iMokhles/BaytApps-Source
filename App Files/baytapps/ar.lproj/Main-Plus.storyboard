@@ -1,0 +1,309 @@
+
+/* Class = "UILabel"; text = "@username"; ObjectID = "0XO-bo-RT3"; */
+"0XO-bo-RT3.text" = "@username";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0dc-vw-zVA"; */
+"0dc-vw-zVA.text" = "Label";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "11h-ja-5mt"; */
+"11h-ja-5mt.text" = "دعم فني";
+
+/* Class = "UIButton"; normalTitle = "Verify Device"; ObjectID = "1S6-Kp-1vH"; */
+"1S6-Kp-1vH.normalTitle" = "توثيق الجهاز";
+
+/* Class = "UILabel"; text = "Timeline"; ObjectID = "2OB-tX-CMJ"; */
+"2OB-tX-CMJ.text" = "Timeline";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "2VK-cX-1P8"; */
+"2VK-cX-1P8.text" = "الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "Renew License?"; ObjectID = "2le-Ke-fxb"; */
+"2le-Ke-fxb.normalTitle" = "تجديد الترخيص؟";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "2nw-j1-7yf"; */
+"2nw-j1-7yf.normalTitle" = "تسجيل جديد؟";
+
+/* Class = "UILabel"; text = "(10 ratings)"; ObjectID = "3mj-i7-0VE"; */
+"3mj-i7-0VE.text" = "(١٠ تقيمات)";
+
+/* Class = "UILabel"; text = "Photo & Video"; ObjectID = "4aL-oE-Hob"; */
+"4aL-oE-Hob.text" = "صوره و فيديو";
+
+/* Class = "UILabel"; text = "App Manager"; ObjectID = "4tM-4K-mhQ"; */
+"4tM-4K-mhQ.text" = "مدير التطبيق";
+
+/* Class = "UILabel"; text = "Color Picker"; ObjectID = "5Sp-yV-EYD"; */
+"5Sp-yV-EYD.text" = "مبدل الالوان";
+
+/* Class = "UILabel"; text = "BaytApps"; ObjectID = "68X-x6-Hxl"; */
+"68X-x6-Hxl.text" = "بيت التطبيقات";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6AL-dw-BfS"; */
+"6AL-dw-BfS.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6LO-O6-6fa"; */
+"6LO-O6-6fa.text" = "Label";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "6cV-hQ-pjX"; */
+"6cV-hQ-pjX.text" = "الأسم بالكامل";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "6hA-f5-4WV"; */
+"6hA-f5-4WV.text" = "لا تملك حساب؟";
+
+/* Class = "UILabel"; text = "Add apple logo "; ObjectID = "6mF-OX-PuZ"; */
+"6mF-OX-PuZ.text" = " أضف شعار ابل";
+
+/* Class = "UILabel"; text = "Duplicate App:"; ObjectID = "6tc-do-hMi"; */
+"6tc-do-hMi.text" = "تكرير التطبيق";
+
+/* Class = "UILabel"; text = "Last message"; ObjectID = "7Hj-fv-GZY"; */
+"7Hj-fv-GZY.text" = "أخر رسالة";
+
+/* Class = "UISearchBar"; placeholder = "search"; ObjectID = "7Un-KY-dED"; */
+"7Un-KY-dED.placeholder" = "بحث";
+
+/* Class = "UILabel"; text = "Application Name"; ObjectID = "9Eg-kz-MY1"; */
+"9Eg-kz-MY1.text" = "إسم التطبيق";
+
+/* Class = "UILabel"; text = "17+"; ObjectID = "A3B-69-XuR"; */
+"A3B-69-XuR.text" = "17+";
+
+/* Class = "UITextField"; placeholder = "order number ex: #2356"; ObjectID = "B3z-i3-Xou"; */
+"B3z-i3-Xou.placeholder" = "2356 رقم الطلب: مثال";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "Boj-UP-egR"; */
+"Boj-UP-egR.placeholder" = "الأسم بالكامل";
+
+/* Class = "UILabel"; text = "version ( 1.7 )"; ObjectID = "Cf0-HN-GF5"; */
+"Cf0-HN-GF5.text" = "version ( 1.7 )";
+
+/* Class = "UILabel"; text = "Application Name"; ObjectID = "D36-c8-Rjl"; */
+"D36-c8-Rjl.text" = "إسم التطبيق";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "EIe-LI-Hvv"; */
+"EIe-LI-Hvv.placeholder" = "إسم المستخدم";
+
+/* Class = "UILabel"; text = "(10 ratings)"; ObjectID = "EbE-zh-f8S"; */
+"EbE-zh-f8S.text" = "(١٠ تقيمات)";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Fp9-k1-N82"; */
+"Fp9-k1-N82.text" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "GIG-yZ-vtK"; */
+"GIG-yZ-vtK.text" = "إسم";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "HMV-Jp-wkS"; */
+"HMV-Jp-wkS.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KeI-h0-Q2w"; */
+"KeI-h0-Q2w.text" = "Label";
+
+/* Class = "UILabel"; text = "Tweaks"; ObjectID = "LkB-W7-u03"; */
+"LkB-W7-u03.text" = "أدوات";
+
+/* Class = "UILabel"; text = "Mokhlas Hussein"; ObjectID = "LkS-Ub-vnn"; */
+"LkS-Ub-vnn.text" = "Mokhlas Hussein";
+
+/* Class = "UILabel"; text = "0 new"; ObjectID = "LpZ-L8-hK4"; */
+"LpZ-L8-hK4.text" = "٠ جديد";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "M7L-cg-txv"; */
+"M7L-cg-txv.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Photo & Video"; ObjectID = "MBx-8T-t0w"; */
+"MBx-8T-t0w.text" = "صوره و فيديو";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MKB-qa-9uN"; */
+"MKB-qa-9uN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Unfollow"; ObjectID = "N0o-ih-Vhi"; */
+"N0o-ih-Vhi.normalTitle" = "الغاء متابعة";
+
+/* Class = "UIButton"; normalTitle = "Download"; ObjectID = "OTL-JH-xRT"; */
+"OTL-JH-xRT.normalTitle" = "تحميل";
+
+/* Class = "UILabel"; text = "New Account"; ObjectID = "OfZ-wW-DXP"; */
+"OfZ-wW-DXP.text" = "حساب جديد";
+
+/* Class = "UILabel"; text = "Application Name"; ObjectID = "Ok5-oU-quL"; */
+"Ok5-oU-quL.text" = "إسم التطبيق";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Qrn-21-gGM"; */
+"Qrn-21-gGM.text" = "0";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "QuH-eu-Xd7"; */
+"QuH-eu-Xd7.text" = "المتابعون";
+
+/* Class = "UILabel"; text = "version ( 1.7 )"; ObjectID = "RZQ-jY-e7n"; */
+"RZQ-jY-e7n.text" = "version ( 1.7 )";
+
+/* Class = "UILabel"; text = "mokhleshussien@aol.com"; ObjectID = "S5w-Zn-mQs"; */
+"S5w-Zn-mQs.text" = "mokhleshussien@aol.com";
+
+/* Class = "UILabel"; text = "Photo & Video"; ObjectID = "SxQ-Yp-xEN"; */
+"SxQ-Yp-xEN.text" = "صوره و فيديو";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "V4W-9n-YvN"; */
+"V4W-9n-YvN.text" = "بروفايل";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "WQZ-nV-uVz"; */
+"WQZ-nV-uVz.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Choose"; ObjectID = "WR1-eH-J9P"; */
+"WR1-eH-J9P.text" = "إختر";
+
+/* Class = "UILabel"; text = "(10 ratings)"; ObjectID = "Z9c-PC-ne1"; */
+"Z9c-PC-ne1.text" = "(١٠ تقيمات)";
+
+/* Class = "UILabel"; text = "Application Name"; ObjectID = "Zn9-dR-4t1"; */
+"Zn9-dR-4t1.text" = "إسم التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Start Download"; ObjectID = "aN6-0I-xr3"; */
+"aN6-0I-xr3.normalTitle" = "إبدأ التحميل";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "aP2-Vf-WRc"; */
+"aP2-Vf-WRc.text" = "المتابعيين";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aoA-tq-4FP"; */
+"aoA-tq-4FP.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "have an account?"; ObjectID = "bBL-MC-UN5"; */
+"bBL-MC-UN5.text" = "لديك حساب؟";
+
+/* Class = "UILabel"; text = "Last message"; ObjectID = "bmm-Qf-Bx1"; */
+"bmm-Qf-Bx1.text" = "أخر رسالة";
+
+/* Class = "UILabel"; text = "App Name"; ObjectID = "cm5-PD-3fH"; */
+"cm5-PD-3fH.text" = "App Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cml-gW-EBF"; */
+"cml-gW-EBF.text" = "Label";
+
+/* Class = "UILabel"; text = "Screenshots"; ObjectID = "d6G-sa-6Xx"; */
+"d6G-sa-6Xx.text" = "صور من التطبيق";
+
+/* Class = "UITextField"; placeholder = "Application Name"; ObjectID = "dGT-us-hQW"; */
+"dGT-us-hQW.placeholder" = "Application Name";
+
+/* Class = "UITextField"; text = "Application Name"; ObjectID = "dGT-us-hQW"; */
+"dGT-us-hQW.text" = "Application Name";
+
+/* Class = "UIButton"; normalTitle = "Photo Editor"; ObjectID = "dKC-WR-idv"; */
+"dKC-WR-idv.normalTitle" = "محرر الصور";
+
+/* Class = "UIButton"; normalTitle = "more"; ObjectID = "dNz-dl-718"; */
+"dNz-dl-718.normalTitle" = "المزيد";
+
+/* Class = "UILabel"; text = "Photo & Video"; ObjectID = "da4-kr-nfo"; */
+"da4-kr-nfo.text" = "صوره و فيديو";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dhi-vg-nCu"; */
+"dhi-vg-nCu.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ePb-D4-GgO"; */
+"ePb-D4-GgO.text" = "Label";
+
+/* Class = "UILabel"; text = "version ( 1.7 )"; ObjectID = "eh8-sG-a4g"; */
+"eh8-sG-a4g.text" = "version ( 1.7 )";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "gcb-kj-CsK"; */
+"gcb-kj-CsK.placeholder" = "إسم المستخدم";
+
+/* Class = "UILabel"; text = "version ( 1.7 )"; ObjectID = "guT-ey-FKR"; */
+"guT-ey-FKR.text" = "version ( 1.7 )";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ian-7R-cUa"; */
+"ian-7R-cUa.text" = "1";
+
+/* Class = "UILabel"; text = "Application Name"; ObjectID = "ick-N5-ee1"; */
+"ick-N5-ee1.text" = "Application Name";
+
+/* Class = "UILabel"; text = "Orig Name"; ObjectID = "itq-aL-h7B"; */
+"itq-aL-h7B.text" = "Orig Name";
+
+/* Class = "UILabel"; text = "offline"; ObjectID = "j0k-5v-UI1"; */
+"j0k-5v-UI1.text" = "اوفلاين";
+
+/* Class = "UILabel"; text = "Select Version"; ObjectID = "joG-UO-skN"; */
+"joG-UO-skN.text" = "إختر اصدار";
+
+/* Class = "UIButton"; normalTitle = "Refersh Page"; ObjectID = "kWA-zM-0pm"; */
+"kWA-zM-0pm.normalTitle" = "تحديث الصفحة";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do "; ObjectID = "kdF-hT-oT6"; */
+"kdF-hT-oT6.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do ";
+
+/* Class = "UILabel"; text = "Search Grid"; ObjectID = "ktq-6M-MyH"; */
+"ktq-6M-MyH.text" = "Search Grid";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "lDC-SG-N9g"; */
+"lDC-SG-N9g.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "Photo & Video"; ObjectID = "lJl-Uv-2yP"; */
+"lJl-Uv-2yP.text" = "صوره و فيديو";
+
+/* Class = "UILabel"; text = "Apps"; ObjectID = "mXZ-Zp-EqI"; */
+"mXZ-Zp-EqI.text" = "تطبيقات";
+
+/* Class = "UILabel"; text = "No Internet Connection"; ObjectID = "mdN-et-SpM"; */
+"mdN-et-SpM.text" = "لا يوجد اتصال انترنت";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ndO-UN-TEy"; */
+"ndO-UN-TEy.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "pEJ-kE-ajV"; */
+"pEJ-kE-ajV.placeholder" = "إيميل";
+
+/* Class = "UILabel"; text = "Wallpapers"; ObjectID = "pij-sW-bI1"; */
+"pij-sW-bI1.text" = "خلفيات";
+
+/* Class = "UILabel"; text = "BaytApps"; ObjectID = "ppj-pO-zDh"; */
+"ppj-pO-zDh.text" = "بيت التطبيقات";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "qws-Tn-8zG"; */
+"qws-Tn-8zG.normalTitle" = "تسجيل دخول";
+
+/* Class = "UILabel"; text = "version ( 1.7 )"; ObjectID = "rDP-L5-dvh"; */
+"rDP-L5-dvh.text" = "version ( 1.7 )";
+
+/* Class = "UILabel"; text = "Hosters"; ObjectID = "s5V-t9-FWA"; */
+"s5V-t9-FWA.text" = "مستضيفي التطبيقات";
+
+/* Class = "UILabel"; text = "Search List"; ObjectID = "s9j-di-tDB"; */
+"s9j-di-tDB.text" = "قائمة البحث";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "sGo-lM-ehM"; */
+"sGo-lM-ehM.normalTitle" = "تسجيل جديد";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tDO-Yz-L0F"; */
+"tDO-Yz-L0F.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "ugH-1K-zHG"; */
+"ugH-1K-zHG.normalTitle" = "تسجيل دخول";
+
+/* Class = "UILabel"; text = "Your License Expired"; ObjectID = "um4-Uz-Log"; */
+"um4-Uz-Log.text" = "انتهت فترة اشتراكك";
+
+/* Class = "UILabel"; text = "New Name"; ObjectID = "v2N-JZ-AaB"; */
+"v2N-JZ-AaB.text" = "New Name";
+
+/* Class = "UILabel"; text = "(10 ratings)"; ObjectID = "vMa-Iz-Vgs"; */
+"vMa-Iz-Vgs.text" = "(10 ratings)";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "vYI-0p-8RF"; */
+"vYI-0p-8RF.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Show All"; ObjectID = "xXV-ac-j3z"; */
+"xXV-ac-j3z.normalTitle" = "آظهر الكل";
+
+/* Class = "UILabel"; text = "Downloading..."; ObjectID = "y1K-CN-FdX"; */
+"y1K-CN-FdX.text" = "جاري التحميل...";
+
+/* Class = "UILabel"; text = "Just now"; ObjectID = "yvs-wm-7Fb"; */
+"yvs-wm-7Fb.text" = "الان";
+
+/* Class = "UILabel"; text = "(10 ratings)"; ObjectID = "zYJ-5C-BCe"; */
+"zYJ-5C-BCe.text" = "(10 ratings)";
+
+/* Class = "UIButton"; normalTitle = "Share App"; ObjectID = "zve-11-d3l"; */
+"zve-11-d3l.normalTitle" = "شارك التطبيق";

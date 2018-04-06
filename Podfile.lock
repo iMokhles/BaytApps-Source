@@ -1,0 +1,86 @@
+PODS:
+  - BFKit (1.9.3)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Crashlytics (3.8.4):
+    - Fabric (~> 1.6.3)
+  - DTTJailbreakDetection (0.4.0)
+  - Fabric (1.6.11)
+  - FBSDKCoreKit (4.23.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.23.0):
+    - FBSDKCoreKit
+  - FLAnimatedImage (1.0.12)
+  - GBDeviceInfo (4.3.0):
+    - GBDeviceInfo/Core (= 4.3.0)
+  - GBDeviceInfo/Core (4.3.0)
+  - GBDeviceInfo/Jailbreak (4.3.0):
+    - GBJailbreakDetection (~> 1.3)
+  - GBJailbreakDetection (1.3.0)
+  - OneSignal (2.5.4)
+  - Parse (1.14.4):
+    - Bolts/Tasks (~> 1.8)
+  - ParseFacebookUtilsV4 (1.11.1):
+    - Bolts/Tasks (>= 1.6)
+    - FBSDKCoreKit (~> 4.10)
+    - FBSDKLoginKit (~> 4.10)
+    - FBSDKTVOSKit (~> 4.10)
+    - Parse (~> 1.12)
+  - ParseTwitterUtils (1.11.0):
+    - Bolts/Tasks (~> 1.7)
+    - Parse (~> 1.13)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - PINCache (2.3)
+  - PINRemoteImage (2.1.4):
+    - PINRemoteImage/FLAnimatedImage (= 2.1.4)
+  - PINRemoteImage/Core (2.1.4):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/FLAnimatedImage (2.1.4):
+    - FLAnimatedImage (>= 1.0)
+    - PINRemoteImage/Core
+  - SSKeychain (1.4.1)
+
+DEPENDENCIES:
+  - BFKit
+  - Crashlytics
+  - DTTJailbreakDetection
+  - Fabric
+  - GBDeviceInfo (~> 4.2)
+  - GBDeviceInfo/Jailbreak (~> 4.2)
+  - OneSignal (< 3.0, >= 2.5.2)
+  - Parse
+  - ParseFacebookUtilsV4
+  - ParseTwitterUtils
+  - ParseUI
+  - PINRemoteImage
+  - SSKeychain
+
+SPEC CHECKSUMS:
+  BFKit: e581dc0609b462aea9ceb02417ceb5b26ede3316
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Crashlytics: 79e236942ca1e7fc641df1feb9a275360a78ab6a
+  DTTJailbreakDetection: 5e356c5badc17995f65a83ed9483f787a0057b71
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  FBSDKCoreKit: d7829f5a69901cd7296105328e4c3c3fc7da6518
+  FBSDKLoginKit: 6b92bd65f319d669d2b0730e49db495ef1660566
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  GBDeviceInfo: caae36532afcc209b51ac62bba547aadab9e88f2
+  GBJailbreakDetection: a216773574b62dddb6c876ffdb52c54ac05e27e0
+  OneSignal: da994bcf6a2efbdceaf71e389e1d05245c562899
+  Parse: b0aa91d2c435e53d4a9af26e741e014c9b35c42e
+  ParseFacebookUtilsV4: 2f30c2b7021c8005d3042781da7ef87d06589421
+  ParseTwitterUtils: 0dde9689565e7012d83f892c64aed2ebe69f2ea9
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  PINRemoteImage: 4ac4011c5caefd6befd99758e09becede05d3226
+  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+
+PODFILE CHECKSUM: 270cf938e22d44bdc6c67c5cfe21c9a5d83f7f2c
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,307 @@
+/* Class = "UILabel"; text = "@Nombre de usuario"; ObjectID = "0XO-bo-RT3"; */
+"0XO-bo-RT3.text" = "@Nombre de usuario";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "0dc-vw-zVA"; */
+"0dc-vw-zVA.text" = "Label";
+
+/* Class = "UILabel"; text = "Soporte"; ObjectID = "11h-ja-5mt"; */
+"11h-ja-5mt.text" = "Soporte";
+
+/* Class = "UIButton"; normalTitle = "Verificar dispositivo"; ObjectID = "1S6-Kp-1vH"; */
+"1S6-Kp-1vH.normalTitle" = "Verificar dispositivo";
+
+/* Class = "UILabel"; text = "Linea temporal"; ObjectID = "2OB-tX-CMJ"; */
+"2OB-tX-CMJ.text" = "Linea temporal";
+
+/* Class = "UILabel"; text = "Inicio"; ObjectID = "2VK-cX-1P8"; */
+"2VK-cX-1P8.text" = "Inicio";
+
+/* Class = "UIButton"; normalTitle = "¿Renovar licencia?"; ObjectID = "2le-Ke-fxb"; */
+"2le-Ke-fxb.normalTitle" = "¿Renovar licencia?";
+
+/* Class = "UIButton"; normalTitle = "Registrarse"; ObjectID = "2nw-j1-7yf"; */
+"2nw-j1-7yf.normalTitle" = "Registrarse";
+
+/* Class = "UILabel"; text = "(10 votos)"; ObjectID = "3mj-i7-0VE"; */
+"3mj-i7-0VE.text" = "(10 votos)";
+
+/* Class = "UILabel"; text = "Photo y Video"; ObjectID = "4aL-oE-Hob"; */
+"4aL-oE-Hob.text" = "Photo y Video";
+
+/* Class = "UILabel"; text = "Gestor de apps"; ObjectID = "4tM-4K-mhQ"; */
+"4tM-4K-mhQ.text" = "Gestor de apps";
+
+/* Class = "UILabel"; text = "Selector de color"; ObjectID = "5Sp-yV-EYD"; */
+"5Sp-yV-EYD.text" = "Selector de color";
+
+/* Class = "UILabel"; text = "BaytApps"; ObjectID = "68X-x6-Hxl"; */
+"68X-x6-Hxl.text" = "BaytApps";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6AL-dw-BfS"; */
+"6AL-dw-BfS.text" = "0";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "6LO-O6-6fa"; */
+"6LO-O6-6fa.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Nombre completo"; ObjectID = "6cV-hQ-pjX"; */
+"6cV-hQ-pjX.text" = "Nombre completo";
+
+/* Class = "UILabel"; text = "¿No tienes cuenta?"; ObjectID = "6hA-f5-4WV"; */
+"6hA-f5-4WV.text" = "¿No tienes cuenta?";
+
+/* Class = "UILabel"; text = "Añadir logo Apple "; ObjectID = "6mF-OX-PuZ"; */
+"6mF-OX-PuZ.text" = "Añadir logo Apple ";
+
+/* Class = "UILabel"; text = "Duplicar App:"; ObjectID = "6tc-do-hMi"; */
+"6tc-do-hMi.text" = "Duplicar App:";
+
+/* Class = "UILabel"; text = "Último mensaje"; ObjectID = "7Hj-fv-GZY"; */
+"7Hj-fv-GZY.text" = "Último mensaje";
+
+/* Class = "UISearchBar"; placeholder = "Buscar"; ObjectID = "7Un-KY-dED"; */
+"7Un-KY-dED.placeholder" = "Buscar";
+
+/* Class = "UILabel"; text = "Nombre app"; ObjectID = "9Eg-kz-MY1"; */
+"9Eg-kz-MY1.text" = "Nombre app";
+
+/* Class = "UILabel"; text = "+17"; ObjectID = "A3B-69-XuR"; */
+"A3B-69-XuR.text" = "17+";
+
+/* Class = "UITextField"; placeholder = "numero pedido ej: #2356"; ObjectID = "B3z-i3-Xou"; */
+"B3z-i3-Xou.placeholder" = "numero pedido ej: #2356";
+
+/* Class = "UITextField"; placeholder = "Nombre completo"; ObjectID = "Boj-UP-egR"; */
+"Boj-UP-egR.placeholder" = "Nombre completo";
+
+/* Class = "UILabel"; text = "Versión ( 1.7 )"; ObjectID = "Cf0-HN-GF5"; */
+"Cf0-HN-GF5.text" = "Versión ( 1.7 )";
+
+/* Class = "UILabel"; text = "Nombre app"; ObjectID = "D36-c8-Rjl"; */
+"D36-c8-Rjl.text" = "Nombre app";
+
+/* Class = "UITextField"; placeholder = "Nombre de usuario"; ObjectID = "EIe-LI-Hvv"; */
+"EIe-LI-Hvv.placeholder" = "Nombre de usuario";
+
+/* Class = "UILabel"; text = "(10 votos)"; ObjectID = "EbE-zh-f8S"; */
+"EbE-zh-f8S.text" = "(10 votos)";
+
+/* Class = "UILabel"; text = "Ajustes"; ObjectID = "Fp9-k1-N82"; */
+"Fp9-k1-N82.text" = "Ajustes";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "GIG-yZ-vtK"; */
+"GIG-yZ-vtK.text" = "Nombre";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "HMV-Jp-wkS"; */
+"HMV-Jp-wkS.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "KeI-h0-Q2w"; */
+"KeI-h0-Q2w.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Modificaciones"; ObjectID = "LkB-W7-u03"; */
+"LkB-W7-u03.text" = "Modificaciones";
+
+/* Class = "UILabel"; text = "Mokhlas Hussein"; ObjectID = "LkS-Ub-vnn"; */
+"LkS-Ub-vnn.text" = "Mokhlas Hussein";
+
+/* Class = "UILabel"; text = "0 nuevo"; ObjectID = "LpZ-L8-hK4"; */
+"LpZ-L8-hK4.text" = "0 new";
+
+/* Class = "UILabel"; text = "Descripción"; ObjectID = "M7L-cg-txv"; */
+"M7L-cg-txv.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Photo y Video"; ObjectID = "MBx-8T-t0w"; */
+"MBx-8T-t0w.text" = "Photo y Video";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "MKB-qa-9uN"; */
+"MKB-qa-9uN.text" = "Etiqueta";
+
+/* Class = "UIButton"; normalTitle = "Dejar de seguir"; ObjectID = "N0o-ih-Vhi"; */
+"N0o-ih-Vhi.normalTitle" = "Dejar de seguir";
+
+/* Class = "UIButton"; normalTitle = "Descargar"; ObjectID = "OTL-JH-xRT"; */
+"OTL-JH-xRT.normalTitle" = "Descargar";
+
+/* Class = "UILabel"; text = "Nueva cuenta"; ObjectID = "OfZ-wW-DXP"; */
+"OfZ-wW-DXP.text" = "Nueva cuenta";
+
+/* Class = "UILabel"; text = "Nombre App"; ObjectID = "Ok5-oU-quL"; */
+"Ok5-oU-quL.text" = "Nombre App";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Qrn-21-gGM"; */
+"Qrn-21-gGM.text" = "0";
+
+/* Class = "UILabel"; text = "Seguidores"; ObjectID = "QuH-eu-Xd7"; */
+"QuH-eu-Xd7.text" = "Seguidores";
+
+/* Class = "UILabel"; text = "Versión ( 1.7 )"; ObjectID = "RZQ-jY-e7n"; */
+"RZQ-jY-e7n.text" = "Versión ( 1.7 )";
+
+/* Class = "UILabel"; text = "mokhleshussien@aol.com"; ObjectID = "S5w-Zn-mQs"; */
+"S5w-Zn-mQs.text" = "mokhleshussien@aol.com";
+
+/* Class = "UILabel"; text = "Photo y Video"; ObjectID = "SxQ-Yp-xEN"; */
+"SxQ-Yp-xEN.text" = "Photo y Video";
+
+/* Class = "UILabel"; text = "Perfil"; ObjectID = "V4W-9n-YvN"; */
+"V4W-9n-YvN.text" = "Perfil";
+
+/* Class = "UILabel"; text = "Descripción"; ObjectID = "WQZ-nV-uVz"; */
+"WQZ-nV-uVz.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Elegir"; ObjectID = "WR1-eH-J9P"; */
+"WR1-eH-J9P.text" = "Elegir";
+
+/* Class = "UILabel"; text = "(10 votos)"; ObjectID = "Z9c-PC-ne1"; */
+"Z9c-PC-ne1.text" = "(10 votos)";
+
+/* Class = "UILabel"; text = "Nombre app"; ObjectID = "Zn9-dR-4t1"; */
+"Zn9-dR-4t1.text" = "Nombre app";
+
+/* Class = "UIButton"; normalTitle = "Empezar descarga"; ObjectID = "aN6-0I-xr3"; */
+"aN6-0I-xr3.normalTitle" = "Empezar descarga";
+
+/* Class = "UILabel"; text = "Siguiendo"; ObjectID = "aP2-Vf-WRc"; */
+"aP2-Vf-WRc.text" = "Siguiendo";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "aoA-tq-4FP"; */
+"aoA-tq-4FP.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "¿Tienes una cuenta?"; ObjectID = "bBL-MC-UN5"; */
+"bBL-MC-UN5.text" = "¿Tienes una cuenta?";
+
+/* Class = "UILabel"; text = "Último mensaje"; ObjectID = "bmm-Qf-Bx1"; */
+"bmm-Qf-Bx1.text" = "Último mensaje";
+
+/* Class = "UILabel"; text = "Nombre app"; ObjectID = "cm5-PD-3fH"; */
+"cm5-PD-3fH.text" = "Nombre app";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "cml-gW-EBF"; */
+"cml-gW-EBF.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Captura de pantalla"; ObjectID = "d6G-sa-6Xx"; */
+"d6G-sa-6Xx.text" = "Captura de pantalla";
+
+/* Class = "UITextField"; placeholder = "Nombre app"; ObjectID = "dGT-us-hQW"; */
+"dGT-us-hQW.placeholder" = "Nombre app";
+
+"dGT-us-hQW.text" = "Nombre app";
+
+/* Class = "UIButton"; normalTitle = "Editor de foto"; ObjectID = "dKC-WR-idv"; */
+"dKC-WR-idv.normalTitle" = "Editor de foto";
+
+/* Class = "UIButton"; normalTitle = "mas"; ObjectID = "dNz-dl-718"; */
+"dNz-dl-718.normalTitle" = "mas";
+
+/* Class = "UILabel"; text = "Photo y Video"; ObjectID = "da4-kr-nfo"; */
+"da4-kr-nfo.text" = "Photo y Video";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dhi-vg-nCu"; */
+"dhi-vg-nCu.text" = "0";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "ePb-D4-GgO"; */
+"ePb-D4-GgO.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Versión ( 1.7 )"; ObjectID = "eh8-sG-a4g"; */
+"eh8-sG-a4g.text" = "Versión ( 1.7 )";
+
+/* Class = "UITextField"; placeholder = "Nombre de usuario"; ObjectID = "gcb-kj-CsK"; */
+"gcb-kj-CsK.placeholder" = "Nombre de usuario";
+
+/* Class = "UILabel"; text = "Versión ( 1.7 )"; ObjectID = "guT-ey-FKR"; */
+"guT-ey-FKR.text" = "Versión ( 1.7 )";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ian-7R-cUa"; */
+"ian-7R-cUa.text" = "1";
+
+/* Class = "UILabel"; text = "Nombre app"; ObjectID = "ick-N5-ee1"; */
+"ick-N5-ee1.text" = "Nombre app";
+
+/* Class = "UILabel"; text = "Nombre original"; ObjectID = "itq-aL-h7B"; */
+"itq-aL-h7B.text" = "Nombre original";
+
+/* Class = "UILabel"; text = "fuera de línea"; ObjectID = "j0k-5v-UI1"; */
+"j0k-5v-UI1.text" = "fuera de línea";
+
+/* Class = "UILabel"; text = "Seleccionar Versión"; ObjectID = "joG-UO-skN"; */
+"joG-UO-skN.text" = "Seleccionar Versión";
+
+/* Class = "UIButton"; normalTitle = "Actualizar página"; ObjectID = "kWA-zM-0pm"; */
+"kWA-zM-0pm.normalTitle" = "Actualizar página";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do "; ObjectID = "kdF-hT-oT6"; */
+"kdF-hT-oT6.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do ";
+
+/* Class = "UILabel"; text = "Campo de búsqueda"; ObjectID = "ktq-6M-MyH"; */
+"ktq-6M-MyH.text" = "Campo de búsqueda";
+
+/* Class = "UITextField"; placeholder = "Confirmar contraseña"; ObjectID = "lDC-SG-N9g"; */
+"lDC-SG-N9g.placeholder" = "Confirmar contraseña";
+
+/* Class = "UILabel"; text = "Photo y Video"; ObjectID = "lJl-Uv-2yP"; */
+"lJl-Uv-2yP.text" = "Photo y Video";
+
+/* Class = "UILabel"; text = "Apps"; ObjectID = "mXZ-Zp-EqI"; */
+"mXZ-Zp-EqI.text" = "Apps";
+
+/* Class = "UILabel"; text = "Sin conexión a internet"; ObjectID = "mdN-et-SpM"; */
+"mdN-et-SpM.text" = "Sin conexión a internet";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "ndO-UN-TEy"; */
+"ndO-UN-TEy.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "pEJ-kE-ajV"; */
+"pEJ-kE-ajV.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Fondos de pantalla"; ObjectID = "pij-sW-bI1"; */
+"pij-sW-bI1.text" = "Fondos de pantalla";
+
+/* Class = "UILabel"; text = "BaytApps"; ObjectID = "ppj-pO-zDh"; */
+"ppj-pO-zDh.text" = "BaytApps";
+
+/* Class = "UIButton"; normalTitle = "Iniciar sesión"; ObjectID = "qws-Tn-8zG"; */
+"qws-Tn-8zG.normalTitle" = "Iniciar sesión";
+
+/* Class = "UILabel"; text = "Versión ( 1.7 )"; ObjectID = "rDP-L5-dvh"; */
+"rDP-L5-dvh.text" = "Versión ( 1.7 )";
+
+/* Class = "UILabel"; text = "Anfitriones"; ObjectID = "s5V-t9-FWA"; */
+"s5V-t9-FWA.text" = "Anfitriones";
+
+/* Class = "UILabel"; text = "Lista de búsqueda"; ObjectID = "s9j-di-tDB"; */
+"s9j-di-tDB.text" = "Lista de búsqueda";
+
+/* Class = "UIButton"; normalTitle = "Registrarse"; ObjectID = "sGo-lM-ehM"; */
+"sGo-lM-ehM.normalTitle" = "Registrarse";
+
+/* Class = "UILabel"; text = "Etiqueta"; ObjectID = "tDO-Yz-L0F"; */
+"tDO-Yz-L0F.text" = "Etiqueta";
+
+/* Class = "UIButton"; normalTitle = "Iniciar sesión"; ObjectID = "ugH-1K-zHG"; */
+"ugH-1K-zHG.normalTitle" = "Iniciar sesión";
+
+/* Class = "UILabel"; text = "Tu licencia ha expirado"; ObjectID = "um4-Uz-Log"; */
+"um4-Uz-Log.text" = "Tu licencia ha expirado";
+
+/* Class = "UILabel"; text = "Nuevo nombre"; ObjectID = "v2N-JZ-AaB"; */
+"v2N-JZ-AaB.text" = "Nuevo nombre";
+
+/* Class = "UILabel"; text = "(10 votos)"; ObjectID = "vMa-Iz-Vgs"; */
+"vMa-Iz-Vgs.text" = "(10 votos)";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "vYI-0p-8RF"; */
+"vYI-0p-8RF.text" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "Mostrar todo"; ObjectID = "xXV-ac-j3z"; */
+"xXV-ac-j3z.normalTitle" = "Mostrar todo";
+
+/* Class = "UILabel"; text = "Descargando..."; ObjectID = "y1K-CN-FdX"; */
+"y1K-CN-FdX.text" = "Descargando...";
+
+/* Class = "UILabel"; text = "Justo ahora"; ObjectID = "yvs-wm-7Fb"; */
+"yvs-wm-7Fb.text" = "Justo ahora";
+
+/* Class = "UILabel"; text = "(10 votos)"; ObjectID = "zYJ-5C-BCe"; */
+"zYJ-5C-BCe.text" = "(10 votos)";
+
+/* Class = "UIButton"; normalTitle = "Compartir App"; ObjectID = "zve-11-d3l"; */
+"zve-11-d3l.normalTitle" = "Compartir App";
